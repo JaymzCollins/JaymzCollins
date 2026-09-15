@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jaymz 👋
 
-<!--
-**JaymzCollins/JaymzCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applied Bioinformatics and Genomics graduate (Cardiff University), 
+focused on computational genomics and single-cell/single-nucleus RNA-seq analysis.
 
-Here are some ideas to get you started:
+- 🔬 My dissertation analysed snRNA-seq data investigating Cas9 nickase-mediated 
+  CAG repeat contraction in a Huntington's disease mouse model — full pipeline 
+  (Cell Ranger → Seurat/Harmony → pseudobulk DESeq2 → pathway enrichment) in 
+  [snRNA-seq_HD_pipeline](https://github.com/JaymzCollins/snRNA-seq_HD_pipeline)
+- 🛠️ Comfortable in R, Python, HPC/SLURM environments, and standard bioinformatics 
+  tooling (Seurat, DESeq2, Cell Ranger, Nextflow)
+- 📄 [CV](https://github.com/JaymzCollins/JaymzCollins/blob/d5d404152c4820b5e375d7169d83b5f66e76dd5b/CV%20Jaymz%20Collins%20Career%202026.pdf)
+-  [LinkedIn](https://www.linkedin.com/in/jaymz-collins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to opportunities in computational biology / bioinformatics.
